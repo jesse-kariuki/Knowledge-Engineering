@@ -1,0 +1,281 @@
+{
+  "generated_at": "2026-11-20T19:46:52+00:00",
+  "sources": {
+    "roads": "Practical Exercise 3 (class road graph)",
+    "coordinates": "OpenStreetMap Nominatim (ODbL)",
+    "road_distances": "OSRM demo server, OpenStreetMap data (ODbL)",
+    "elevation": "Open-Meteo Elevation API (Copernicus DEM)",
+    "descriptions": "Wikipedia REST API (CC BY-SA)"
+  },
+  "towns": {
+    "Nairobi": {
+      "lat": -1.2890006,
+      "lon": 36.8172812,
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "description": "Nairobi is the capital and largest city of Kenya, located in the south-central part of the country.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nairobi",
+      "elevation_m": 1672
+    },
+    "Thika": {
+      "lat": -1.036648,
+      "lon": 37.077523,
+      "county": "Kiambu",
+      "region": "Central Highlands",
+      "description": "Thika is an industrial town and commerce hub in Kiambu County, Kenya, lying on the A2 road 42 kilometres (26 mi), northeast of Nairobi, near the confluence of the Thika and Chania Rivers.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thika",
+      "elevation_m": 1505
+    },
+    "Murang'a": {
+      "lat": -0.7236564,
+      "lon": 37.1575858,
+      "county": "Murang`a",
+      "region": "Central Highlands",
+      "description": "Murang'a is a town in Murang'a County of Kenya.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Murang'a",
+      "elevation_m": 1282
+    },
+    "Nyeri": {
+      "lat": -0.4192962,
+      "lon": 36.9517005,
+      "county": "Nyeri",
+      "region": "Central Highlands",
+      "description": "Nyeri is a town situated in the Central Highlands of Kenya, at an average elevation of about 1,750 to 1,812 metres above sea level.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nyeri",
+      "elevation_m": 1777
+    },
+    "Nanyuki": {
+      "lat": 0.01403,
+      "lon": 37.074632,
+      "county": "Laikipia",
+      "region": "Central Highlands",
+      "description": "Nanyuki is a market town in Laikipia County, Kenya, located northwest of Mount Kenya along the A2 road and at the terminus of the branch railway from Nairobi.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nanyuki",
+      "elevation_m": 1938
+    },
+    "Limuru": {
+      "lat": -1.1158645,
+      "lon": 36.6393103,
+      "county": "Kiambu",
+      "region": "Rift Valley",
+      "description": "Limuru is a town in central Kenya.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Limuru",
+      "elevation_m": 2260
+    },
+    "Naivasha": {
+      "lat": -0.7224425,
+      "lon": 36.4387834,
+      "county": "Nakuru",
+      "region": "Rift Valley",
+      "description": "Naivasha is a town in Nakuru County, Kenya, 92.8 km (57.7 mi) north west of Nairobi.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Naivasha",
+      "elevation_m": 1938
+    },
+    "Gilgil": {
+      "lat": -0.4981671,
+      "lon": 36.3253995,
+      "county": "Nakuru",
+      "region": "Rift Valley",
+      "description": "Gilgil is a town in Nakuru County, Kenya.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gilgil",
+      "elevation_m": 2006
+    },
+    "Nakuru": {
+      "lat": -0.2802724,
+      "lon": 36.0712048,
+      "county": "Nakuru",
+      "region": "Rift Valley",
+      "description": "Nakuru, sometimes referred to as Nakuru City, is the capital and largest city of Nakuru County, Kenya.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nakuru",
+      "elevation_m": 1859
+    },
+    "Nyahururu": {
+      "lat": 0.0333,
+      "lon": 36.3666,
+      "county": "Laikipia",
+      "region": "Rift Valley",
+      "description": "Nyahururu is a town in Kenya, lying north east of Nakuru.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nyahururu",
+      "elevation_m": 2365
+    },
+    "Mai Mahiu": {
+      "lat": -0.9827242,
+      "lon": 36.5856896,
+      "county": "Nakuru",
+      "region": "Rift Valley",
+      "description": "Maai Mahiu is a town in Kenya's Nakuru County.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mai_Mahiu",
+      "elevation_m": 1836
+    },
+    "Narok": {
+      "lat": -1.0886931,
+      "lon": 35.8714916,
+      "county": "Narok",
+      "region": "Rift Valley",
+      "description": "Narok is a town west of Nairobi that supports Kenya's economy in south-west of the country, along the Great Rift Valley.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Narok",
+      "elevation_m": 1849
+    },
+    "Bomet": {
+      "lat": -0.7814456,
+      "lon": 35.3434879,
+      "county": "Bomet",
+      "region": "Rift Valley",
+      "description": "Bomet town is the capital and largest town of Bomet County, Kenya.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bomet",
+      "elevation_m": 1951
+    },
+    "Kericho": {
+      "lat": -0.3666,
+      "lon": 35.2833,
+      "county": "Kericho",
+      "region": "Lake Victoria Basin",
+      "description": "Kericho is the largest town in Kericho County, located in the highlands west of the Kenyan Rift Valley.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kericho",
+      "elevation_m": 1989
+    },
+    "Ahero": {
+      "lat": -0.1724612,
+      "lon": 34.9190229,
+      "county": "Kisumu",
+      "region": "Lake Victoria Basin",
+      "description": "Ahero is a town close to the city of Kisumu, the third largest city in Kenya and the second largest city, after Kampala, in the Lake Victoria Basin.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ahero",
+      "elevation_m": 1153
+    },
+    "Kisumu": {
+      "lat": -0.1029109,
+      "lon": 34.7541761,
+      "county": "Kisumu",
+      "region": "Lake Victoria Basin",
+      "description": "Kisumu is the third-largest city in Kenya located in the Lake Victoria area in the former Nyanza Province.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kisumu",
+      "elevation_m": 1168
+    }
+  },
+  "roads": [
+    {
+      "a": "Nairobi",
+      "b": "Thika",
+      "km_class": 45,
+      "km_osrm": 44.3,
+      "minutes_osrm": 36.7
+    },
+    {
+      "a": "Thika",
+      "b": "Murang'a",
+      "km_class": 45,
+      "km_osrm": 45.2,
+      "minutes_osrm": 38.9
+    },
+    {
+      "a": "Murang'a",
+      "b": "Nyeri",
+      "km_class": 65,
+      "km_osrm": 63.9,
+      "minutes_osrm": 52.5
+    },
+    {
+      "a": "Nyeri",
+      "b": "Nanyuki",
+      "km_class": 60,
+      "km_osrm": 57.1,
+      "minutes_osrm": 56.1
+    },
+    {
+      "a": "Nyeri",
+      "b": "Nyahururu",
+      "km_class": 95,
+      "km_osrm": 102.0,
+      "minutes_osrm": 73.2
+    },
+    {
+      "a": "Nyahururu",
+      "b": "Nakuru",
+      "km_class": 70,
+      "km_osrm": 63.5,
+      "minutes_osrm": 47.2
+    },
+    {
+      "a": "Nairobi",
+      "b": "Limuru",
+      "km_class": 32,
+      "km_osrm": 34.4,
+      "minutes_osrm": 28.9
+    },
+    {
+      "a": "Limuru",
+      "b": "Naivasha",
+      "km_class": 67,
+      "km_osrm": 57.2,
+      "minutes_osrm": 43.9
+    },
+    {
+      "a": "Naivasha",
+      "b": "Gilgil",
+      "km_class": 31,
+      "km_osrm": 31.0,
+      "minutes_osrm": 29.2
+    },
+    {
+      "a": "Gilgil",
+      "b": "Nakuru",
+      "km_class": 35,
+      "km_osrm": 41.7,
+      "minutes_osrm": 30.8
+    },
+    {
+      "a": "Nakuru",
+      "b": "Kericho",
+      "km_class": 105,
+      "km_osrm": 106.4,
+      "minutes_osrm": 102.7
+    },
+    {
+      "a": "Nairobi",
+      "b": "Mai Mahiu",
+      "km_class": 58,
+      "km_osrm": 51.3,
+      "minutes_osrm": 39.4
+    },
+    {
+      "a": "Mai Mahiu",
+      "b": "Narok",
+      "km_class": 77,
+      "km_osrm": 89.3,
+      "minutes_osrm": 63.6
+    },
+    {
+      "a": "Narok",
+      "b": "Bomet",
+      "km_class": 96,
+      "km_osrm": 80.2,
+      "minutes_osrm": 57.1
+    },
+    {
+      "a": "Bomet",
+      "b": "Kericho",
+      "km_class": 57,
+      "km_osrm": 77.4,
+      "minutes_osrm": 56.6
+    },
+    {
+      "a": "Kericho",
+      "b": "Ahero",
+      "km_class": 72,
+      "km_osrm": 61.2,
+      "minutes_osrm": 57.9
+    },
+    {
+      "a": "Ahero",
+      "b": "Kisumu",
+      "km_class": 28,
+      "km_osrm": 22.4,
+      "minutes_osrm": 20.5
+    }
+  ],
+  "osrm_nairobi_kisumu": {
+    "km": 351.3,
+    "minutes": 265.5
+  }
+}
